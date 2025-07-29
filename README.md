@@ -8,9 +8,9 @@
 
 ### 🔍 Sobre mim
 
+- 💡 Em transição para Ciência de Dados
 - 🎓 Formação: Licenciatura e Bacharelado em Química  
-- 📚 Mestrado em Química Ambiental  
-- 💡 Em transição para Ciência de Dados  
+- 📚 Mestrado em Química Ambiental  -   
 - 💻 Atualmente estudando Python, Pandas, Visualização de Dados, Machine Learning  
 - 📊 Interesses: Ciência de Dados, Química Ambiental, Química e Machine Learning 
 - 🎾 Apaixonada por beach tennis e por aprender coisas novas!
