@@ -55,7 +55,7 @@
 
 ### 📫 Vamos nos conectar?
 
-- [LinkedIn](www.linkedin.com/in/claudia-rosa-datascience)
+- [LinkedIn](https://www.linkedin.com/in/claudia-rosa-datascience/)
 - ✉️ E-mail: claudiarpaim@gmail.com
 
 ---
