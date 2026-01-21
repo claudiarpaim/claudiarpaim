@@ -42,8 +42,6 @@
 
 ### 📈 Estatísticas do GitHub
 
-<!-- 🏆 GitHub Trophy (estilo com A++ e fundo escuro) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=claudiarpaim&theme=darkhub&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
